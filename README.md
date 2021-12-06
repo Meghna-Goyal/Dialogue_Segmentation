@@ -23,7 +23,7 @@ Detect critical changes in flow of human-machine interaction (Dialogue Segmentat
       ```bash
       python ./MultiBreakPoint_Max_Entropy.py
       ```
-    * Plot the Graphs of the Entropy:
+    * Plot the graphs of the entropy vs position of the break point in the dialogue segment:
       ```bash
       python ./SingleBreakPoint_Max_Entropy_plot.py
       ```
