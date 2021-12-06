@@ -1,4 +1,4 @@
-# Dialoguen Segmentation Using Maximum Entropy Approach.
+# Dialoguen Segmentation Using Maximum Entropy Approach
 
 Detect critical changes in flow of human-machine interaction (Dialogue Segmentation) using Maximum Entropy Approach.
 
