@@ -20,12 +20,12 @@ Detect critical changes in flow of human-machine interaction (Dialogue Segmentat
       python ./SingleBreakPoint_Max_Entropy.py
       ```
     * Two segmentation breakpoints: Find a multiple breakpoint in the Dialouge Segement with maximum overall entropy of the multiple parts of the segment.
-     ```bash
-     python ./MultiBreakPoint_Max_Entropy.py
-     ```
+      ```bash
+      python ./MultiBreakPoint_Max_Entropy.py
+      ```
     * Plot the Graphs of the Entropy:
       ```bash
-     python ./SingleBreakPoint_Max_Entropy_plot.py
+      python ./SingleBreakPoint_Max_Entropy_plot.py
       ```
 
     
